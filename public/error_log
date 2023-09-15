@@ -1,0 +1,2 @@
+[12-Mar-2023 10:51:28 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\MainController::terms() in /home/triptote/public_html/app/Http/Controllers/MainController.php on line 101
+[12-Mar-2023 10:51:36 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\MainController::terms() in /home/triptote/public_html/app/Http/Controllers/MainController.php on line 101
